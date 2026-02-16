@@ -345,13 +345,13 @@ mindmap
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" />
 
-<br><br>
+<br>
 
 ### Backend Technologies
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,vercel" />
 
-<br><br>
+<br>
 
 ### Development Tools
 
@@ -512,8 +512,6 @@ mindmap
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="150" />
-
-<br><br>
 
 <h3 style="color: #5b21b6; font-family: 'Segoe UI', 'Roboto', sans-serif;">Manan Jani</h3>
 
