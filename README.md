@@ -38,7 +38,11 @@ Apex Portfolio Engine revolutionizes professional portfolio creation through AI-
 
 <br>
 
+<div align="center">
+
 ## Core Features
+
+</div>
 
 <br>
 
@@ -116,7 +120,11 @@ Apex Portfolio Engine revolutionizes professional portfolio creation through AI-
 
 <br>
 
+<div align="center">
+
 ## AI Intelligence
+
+</div>
 
 <br>
 
@@ -173,7 +181,11 @@ Our AI system provides unprecedented natural language processing capabilities fo
 
 <br>
 
+<div align="center">
+
 ## The 6-Step Process
+
+</div>
 
 <br>
 
@@ -278,6 +290,8 @@ Custom domains
 
 <br>
 
+<div align="center">
+
 ## Technology Architecture
 
 ```mermaid
@@ -319,12 +333,9 @@ mindmap
 ```
 
 <br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:9333EA" />
-
-<br>
-
 ## Tech Stack
+
+</div>
 
 <br>
 
@@ -389,7 +400,11 @@ mindmap
 
 <br>
 
+<div align="center">
+
 ## Performance Metrics
+
+</div>
 
 <br>
 
@@ -428,6 +443,8 @@ mindmap
 
 <br>
 
+<div align="center">
+
 # Quick Start
 
 <br>
@@ -439,7 +456,8 @@ mindmap
 <div align="center">
 
 ### Clone Repository
-<pre><code>git clone https://github.com/mananjani2102/apex-portfolio-engine.git</code></pre>
+<pre><code>git clone https://github.com/mananjani2102/apex-portfolio-engine.git
+</code></pre>
 
 ### Navigate to Directory
 <pre><code>cd apex-portfolio-engine</code></pre>
@@ -480,7 +498,6 @@ mindmap
 
 
 <div align="center">
-
 
 <br>
 
@@ -528,10 +545,6 @@ mindmap
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:9333EA" />
-
-<br>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=footer&text=Start%20Building%20Your%20Future&fontSize=35&fontColor=E0E7FF&animation=fadeIn&fontAlignY=70" />
@@ -542,7 +555,7 @@ mindmap
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Your+Portfolio.+Your+Story.+Your+Success.;Built+with+Precision.+Powered+by+AI.;From+Resume+to+Interview+in+Seconds." alt="Footer Typing" />
 </a>
 
-<br><br><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:9333EA" />
 
 <h3 style="font-size: 18px; color: #C7D2FE; font-family: 'Segoe UI', 'Roboto', sans-serif; font-weight: 600; letter-spacing: 0.5px; margin-bottom: 10px;">
 Developed by:-
