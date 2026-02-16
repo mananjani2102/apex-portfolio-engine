@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://apex-portfolio-engine.netlify.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=4000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Transform+Resumes+Into+Professional+Portfolios;Powered+by+DeepSeek+R1+AI;ATS-Optimized+%7C+Multi-Format+Export;Built+for+Job+Seekers+%26+Professionals" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Transform+Resumes+Into+Professional+Portfolios;Powered+by+DeepSeek+R1+AI;ATS-Optimized+%7C+Multi-Format+Export;Built+for+Job+Seekers+%26+Professionals" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,8 +18,8 @@
   <img src="https://img.shields.io/badge/AI_Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-<p align="center" style="font-size: 18px; line-height: 1.8; max-width: 900px; margin: 0 auto;">
-Apex Portfolio Engine revolutionizes professional portfolio creation through AI-powered automation. Built with <strong>DeepSeek R1</strong> (780B parameters), it generates stunning, ATS-optimized portfolios in under one second from resume uploads.
+<p align="center" style="font-size: 18px; line-height: 1.8; max-width: 900px; margin: 0 auto; color: #4c1d95; font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;">
+Apex Portfolio Engine revolutionizes professional portfolio creation through AI-powered automation. Built with <strong style="color: #5b21b6;">DeepSeek R1</strong> (780B parameters), it generates stunning, ATS-optimized portfolios in under one second from resume uploads.
 </p>
 
 <br>
@@ -128,9 +128,9 @@ Apex Portfolio Engine revolutionizes professional portfolio creation through AI-
 
 <div align="center" style="background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%); padding: 30px; border-radius: 15px; margin: 20px auto; max-width: 95%; box-shadow: 0 10px 30px rgba(79, 70, 229, 0.2);">
 
-<h2 style="color: #a5b4fc; font-size: 28px; margin-bottom: 15px;">DeepSeek R1 - 780 Billion Parameters</h2>
+<h2 style="color: #a5b4fc; font-size: 28px; margin-bottom: 15px; font-family: 'Segoe UI', 'Roboto', sans-serif;">DeepSeek R1 - 780 Billion Parameters</h2>
 
-<p style="font-size: 16px; line-height: 1.8; color: #c7d2fe; max-width: 800px; margin: 20px auto;">
+<p style="font-size: 16px; line-height: 1.8; color: #c7d2fe; max-width: 800px; margin: 20px auto; font-family: 'Segoe UI', 'Roboto', sans-serif;">
 Our AI system provides unprecedented natural language processing capabilities for context-aware resume parsing, intelligent content extraction, and industry-specific optimization.
 </p>
 
@@ -460,7 +460,7 @@ npm start
 
 <br>
 
-<p style="font-size: 16px;">
+<p style="font-size: 16px; font-family: 'Consolas', 'Monaco', 'Courier New', monospace;">
 Access the application at <code style="background: #4F46E5; color: #ffffff; padding: 6px 12px; border-radius: 6px; font-weight: 600;">http://localhost:3000</code>
 </p>
 
@@ -482,17 +482,17 @@ Access the application at <code style="background: #4F46E5; color: #ffffff; padd
 
 <br><br>
 
-### Manan Jani
+<h3 style="color: #5b21b6; font-family: 'Segoe UI', 'Roboto', sans-serif;">Manan Jani</h3>
 
-**Full Stack Developer**
-
-<br>
-
-**Expertise:** React.js | Next.js | Node.js | Express.js | UI/UX Design
+<p style="color: #7c3aed; font-weight: 600; font-family: 'Segoe UI', 'Roboto', sans-serif;">Full Stack Developer</p>
 
 <br>
 
-**Contributions:** Frontend | Landing Page Design | Builder Interface | Export Systems | Deployment Automation
+<p style="color: #6b21a8; font-family: 'Segoe UI', 'Roboto', sans-serif;"><strong>Expertise:</strong> React.js | Next.js | Node.js | Express.js | UI/UX Design</p>
+
+<br>
+
+<p style="color: #6b21a8; font-family: 'Segoe UI', 'Roboto', sans-serif;"><strong>Contributions:</strong> Frontend | Landing Page Design | Builder Interface | Export Systems | Deployment Automation</p>
 
 <br><br>
 
@@ -523,13 +523,13 @@ Access the application at <code style="background: #4F46E5; color: #ffffff; padd
 <br>
 
 <a href="https://apex-portfolio-engine.netlify.app/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Your+Portfolio.+Your+Story.+Your+Success.;Built+with+Precision.+Powered+by+AI.;From+Resume+to+Interview+in+Seconds." alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Your+Portfolio.+Your+Story.+Your+Success.;Built+with+Precision.+Powered+by+AI.;From+Resume+to+Interview+in+Seconds." alt="Footer Typing" />
 </a>
 
 <br><br><br>
 
-<p style="font-size: 18px; color: #6366f1; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600; letter-spacing: 1px;">
-Developed with 💙 by <strong style="color: #4F46E5; font-size: 20px;">Manan Jani</strong>
+<p style="font-size: 19px; color: #7c3aed; font-family: 'Poppins', 'Segoe UI', 'Roboto', sans-serif; font-weight: 700; letter-spacing: 1.2px;">
+Developed with 💙 by <strong style="color: #5b21b6; font-size: 21px;">Manan Jani</strong>
 </p>
 
 </div>
