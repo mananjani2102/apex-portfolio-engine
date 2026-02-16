@@ -432,45 +432,59 @@ mindmap
 
 <br>
 
-## Quick Start
+# Quick Start
 
 <br>
+
+<table align="center" width="80%">
+<tr>
+<td align="center">
 
 <div align="center">
 
-```bash
-# Clone the repository
-git clone https://github.com/mananjani2102/apex-portfolio-engine.git
+### Clone Repository
+<pre><code>git clone https://github.com/ShreyanshDangar/apex-portfolio-engine.git</code></pre>
 
-# Navigate to project directory
-cd apex-portfolio-engine
+### Navigate to Directory
+<pre><code>cd apex-portfolio-engine</code></pre>
 
-# Install dependencies
-npm install
+### Install Dependencies
+<pre><code>npm install</code></pre>
 
-# Start development server
-npm run dev
+### Launch Development Server
+<pre><code>npm run dev</code></pre>
 
-# Build for production
-npm run build
+### Build for Production
+<pre><code>npm run build</code></pre>
 
-# Start production server
-npm start
-```
-
-<br>
-
-<p style="font-size: 16px; font-family: 'Consolas', 'Monaco', 'Courier New', monospace;">
-Access the application at <code style="background: #4F46E5; color: #ffffff; padding: 6px 12px; border-radius: 6px; font-weight: 600;">http://localhost:3000</code>
-</p>
+### Start Production Server
+<pre><code>npm start</code></pre>
 
 </div>
 
-<br>
+</td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:9333EA" />
 
-<br>
+</td>
+<td align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41a2-8e1b-c8045b624976.gif" width="300" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+</div>
+
+
+
+<div align="center">
+
 
 ## Developer
 
