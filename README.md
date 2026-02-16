@@ -443,7 +443,7 @@ mindmap
 <div align="center">
 
 ### Clone Repository
-<pre><code>git clone https://github.com/ShreyanshDangar/apex-portfolio-engine.git</code></pre>
+<pre><code>git clone https://github.com/mananjani2102/apex-portfolio-engine.git</code></pre>
 
 ### Navigate to Directory
 <pre><code>cd apex-portfolio-engine</code></pre>
