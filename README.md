@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=280&section=header&text=Apex%20Portfolio%20Engine&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Powered%20Portfolio%20Generation%20in%20Under%20One%20Second&descAlignY=56&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=280&section=header&text=Apex%20Portfolio%20Engine&fontSize=65&fontColor=E0E7FF&animation=fadeIn&fontAlignY=38&desc=AI-Powered%20Portfolio%20Generation%20in%20Under%20One%20Second&descAlignY=56&descSize=18&descColor=C7D2FE" />
 
 </div>
 
@@ -280,24 +280,22 @@ Custom domains
 
 ## Technology Architecture
 
-<br>
-
-<div align="center">
-
 ```mermaid
 %%{init: {
   'theme':'base',
   'themeVariables': {
-    'primaryColor': '#ddd6fe',
-    'primaryTextColor': '#312e81',
-    'primaryBorderColor': '#4F46E5',
-    'lineColor': '#7c3aed',
-    'secondaryColor': '#ede9fe',
-    'tertiaryColor': '#f5f3ff'
+    'primaryColor': '#ffffff',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#000000',
+    'lineColor': '#000000',
+    'secondaryColor': '#ffffff',
+    'tertiaryColor': '#ffffff',
+    'nodeBkgColor': '#ffffff',
+    'nodeTextColor': '#000000'
   }
 }}%%
 mindmap
-  root((Apex Portfolio Engine))
+  root(("Apex<br/>Portfolio<br/>Engine"))
     Frontend
       React 18+
       Next.js 14+
@@ -320,9 +318,7 @@ mindmap
       HTML Download
 ```
 
-</div>
-
-<br>
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:9333EA" />
 
@@ -486,6 +482,12 @@ mindmap
 <div align="center">
 
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:9333EA" />
+
+<br>
+
 ## Developer
 
 <br>
@@ -532,7 +534,7 @@ mindmap
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=footer&text=Start%20Building%20Your%20Future&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=footer&text=Start%20Building%20Your%20Future&fontSize=35&fontColor=E0E7FF&animation=fadeIn&fontAlignY=70" />
 
 <br>
 
@@ -542,8 +544,14 @@ mindmap
 
 <br><br><br>
 
-<p style="font-size: 19px; color: #7c3aed; font-family: 'Poppins', 'Segoe UI', 'Roboto', sans-serif; font-weight: 700; letter-spacing: 1.2px;">
-Developed with 💙 by <strong style="color: #5b21b6; font-size: 21px;">Manan Jani</strong>
-</p>
+<h3 style="font-size: 18px; color: #C7D2FE; font-family: 'Segoe UI', 'Roboto', sans-serif; font-weight: 600; letter-spacing: 0.5px; margin-bottom: 10px;">
+Developed by:-
+</h3>
+
+<h2 style="font-size: 32px; color: #E0E7FF; font-family: 'Poppins', 'Segoe UI', sans-serif; font-weight: 700; margin: 0;">
+Manan Jani
+</h2>
+
+<br>
 
 </div>
